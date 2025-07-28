@@ -1,2 +1,33 @@
 /NemUpgradeTracker.md
 /NemUpgradeTracker_Design.md
+# macOS
+.DS_Store
+NemLootTracker/.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Editor/IDE
+.vscode/
+*.swp
+*.swo
+
+# Git
+.git/
+.gitignore
+.github/
+
+# Build/Packaging
+*.zip
+.release/
+.pkgmeta
+
+# Documentation
+README.md
+
+# Backup files
+*~
+*.bak 
+
+Pawn/ 
