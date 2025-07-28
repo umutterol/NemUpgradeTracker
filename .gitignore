@@ -21,7 +21,7 @@ desktop.ini
 # Build/Packaging
 *.zip
 .release/
-.pkgmeta
+
 
 # Documentation
 README.md

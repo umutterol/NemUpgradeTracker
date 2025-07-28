@@ -1,0 +1,10 @@
+ignore:
+  - Pawn/
+  - .github
+  - README.md
+  - docs/
+  - scripts/
+  - tests/
+  - .gitignore
+  - .pkgmeta
+  - .DS_Store 
