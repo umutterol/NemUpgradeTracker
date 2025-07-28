@@ -1,0 +1,14 @@
+## Interface: 110105, 110107
+## Title: Nem Upgrade Tracker
+## X-ShortName: NLT
+## Notes: Tracks upgradeable gear and crest requirements
+## Author: Nemw
+## Version: 0.1
+## SavedVariables: NemUpgradeTrackerDB
+
+main.lua
+itemscan.lua
+crestlogic.lua
+selectionui.lua
+summaryui.lua
+data.lua 
