@@ -133,10 +133,10 @@ function NemUpgradeTracker:CalculateCrestNeeds(item)
         --print(string.format("  %s: %d", crest, total))
     end
     if discounted then
-        print("  (Discounts applied for some upgrades based on best ilvl in slot)")
+       -- print("  (Discounts applied for some upgrades based on best ilvl in slot)")
     end
     if not next(crestTotals) then
-        print("  No costs needed (all upgrades discounted or item maxed)")
+        --print("  No costs needed (all upgrades discounted or item maxed)")
     end
     return crestTotals
 end 

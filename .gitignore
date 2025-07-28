@@ -16,12 +16,12 @@ desktop.ini
 # Git
 .git/
 .gitignore
-
+.github/
 
 # Build/Packaging
 *.zip
 .release/
-
+.pkgmeta
 
 # Documentation
 README.md
