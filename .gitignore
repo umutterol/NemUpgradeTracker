@@ -16,7 +16,7 @@ desktop.ini
 # Git
 .git/
 .gitignore
-.github/
+
 
 # Build/Packaging
 *.zip

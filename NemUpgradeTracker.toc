@@ -5,6 +5,7 @@
 ## Author: Nemw
 ## Version: 0.1
 ## SavedVariables: NemUpgradeTrackerDB
+## X-Curse-Project-ID: 1315835
 
 main.lua
 itemscan.lua
