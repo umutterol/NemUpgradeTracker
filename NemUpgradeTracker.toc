@@ -3,7 +3,7 @@
 ## X-ShortName: NLT
 ## Notes: Tracks upgradeable gear and crest requirements
 ## Author: Nemw
-## Version: 0.1
+## Version: 250728-1133
 ## SavedVariables: NemUpgradeTrackerDB
 ## X-Curse-Project-ID: 1315835
 
